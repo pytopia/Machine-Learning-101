@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.pytopia.ai)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/pytopia_ai)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-red)](https://instagram.com/pytopia.ai)
-[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/c/pytopia)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/@pytopia)
 [![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-blue)](https://linkedin.com/company/pytopia)
 [![Twitter](https://img.shields.io/badge/Follow-Twitter-blue)](https://twitter.com/pytopia_ai)
 
