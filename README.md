@@ -79,7 +79,7 @@ Feel free to reach out to us!
 
 - 🌐 Website: [pytopia.ia](https://www.pytopia.ai)
 - 💬 Telegram: [pytopia_ai](https://t.me/pytopia_ai)
-- 🎥 YouTube: [pytopia](https://www.youtube.com/c/pytopia)
+- 🎥 YouTube: [pytopia](https://www.youtube.com/@pytopia)
 - 📸 Instagram: [pytopia.ai](https://www.instagram.com/pytopia.ai)
 - 🎓 LinkedIn: [pytopia](https://www.linkedin.com/in/pytopia)
 - 🐦 Twitter: [pytopia_ai](https://twitter.com/pytopia_ai)
