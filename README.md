@@ -14,7 +14,7 @@
 
 Welcome to the Machine Learning 101 course repository! This course is designed to provide a comprehensive overview of the fundamental concepts and techniques in Machine Learning. Whether you're a beginner looking to get started in this exciting field or an experienced practitioner seeking to refresh your knowledge, this course has something to offer.
 
-## 🎯 Course Objectives
+# 🎯 Course Objectives
 
 By the end of this course, you will:
 
@@ -25,7 +25,7 @@ By the end of this course, you will:
 - Explore real-world applications and case studies of Machine Learning
 - Discover the future trends and opportunities in the field of Machine Learning
 
-## 📚 Course Contents
+# 📚 Course Contents
 
 The course is divided into the following chapters:
 
@@ -39,7 +39,7 @@ The course is divided into the following chapters:
 
 Each chapter includes a combination of theoretical explanations, practical examples, and hands-on exercises to reinforce your understanding of the concepts.
 
-## ✅ Prerequisites
+# ✅ Prerequisites
 
 To get the most out of this course, you should have:
 
