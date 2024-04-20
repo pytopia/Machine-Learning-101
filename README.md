@@ -61,12 +61,12 @@ To get started with the course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/ml-101-course.git
+   git clone https://github.com/pytopia/Machine-Learning-101.git
    ```
 
 2. Navigate to the cloned repository:
    ```
-   cd ml-101-course
+   cd Machine-Learning-101
    ```
 
 3. Start exploring the course materials, beginning with the first chapter.
